@@ -1,2 +1,3 @@
 # hello-world
 My name is Unachukwu Elvis Chinemerem. Popularly known as Pablomacanacii. I am intending to become a computer programmer especially in the aspect of web developing. I already have some background knowledge like html, Introduction to CSS. I pray this site help me reach my dream of becoming an international, classic computer programmer
+Nevertheless, i've decided to widen out and acquire more useful skills. The Data Science Course is an impactful and practical programme. With the skills just acquired, i hope to attain more positions in the IT Field whilst still grabbing more with the time left.
